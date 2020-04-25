@@ -1,0 +1,8 @@
+ul{
+	list-style:upper-alpha;
+}
+ol{
+	
+	list-style-type: lower-roman;
+	list-style-position: outside; 
+}

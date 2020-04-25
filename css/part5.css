@@ -1,0 +1,6 @@
+p{
+	border-width: 5px 3px;
+	border-style: solid dotted;
+	border-color: green red;
+	border-radius: 10px;
+}
