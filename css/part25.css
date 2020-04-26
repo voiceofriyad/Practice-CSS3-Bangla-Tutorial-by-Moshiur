@@ -1,0 +1,10 @@
+p::first-letter{
+	color: red;
+}
+p::first-line{
+	color: green;
+}
+
+h2::before{
+	content: url(../image/riyad.JPG);
+}

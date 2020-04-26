@@ -1,0 +1,57 @@
+.box{
+	width: 100px;
+	height: 100px;
+	background: red;
+	animation-name: riyad1;
+	animation-duration: 3s; 
+	position: relative;
+	animation-iteration-count: 3;
+	animation-direction: alternate-reverse;
+	animation-fill-mode: backwards;
+
+}
+
+.box1{
+	width: 200px;
+	height: 200px;
+	background: orange;
+	animation-name: riyad;
+	animation-duration: 2s; 
+}
+
+@keyframes riyad{
+	from{
+		background-color: green;
+	}
+	to{
+		background-color: yellow;
+	}
+}
+
+@keyframes riyad1{
+	0%{
+		background-color: red;
+		left: 0;
+		top: 0;
+	}
+	25%{
+		background-color: yellow;
+		top: 0;
+		left: 200px;
+	}
+	50%{
+		background-color: gray;
+		left: 200px;
+		top: 200px;
+	}
+	75%{
+		background-color: blue;
+		left: 0;
+		top:200px;
+	}
+	100%{
+		background-color: red;
+		left:0;
+		top:0;
+	}
+}

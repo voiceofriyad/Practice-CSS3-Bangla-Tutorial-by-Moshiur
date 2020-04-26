@@ -1,0 +1,47 @@
+body{
+	margin:0;
+	padding: 0;
+}
+.box{
+	width: 100px;
+	height: 100px;
+	background: red;
+	border: 2px solid #000;
+	padding: 10px;
+	font-size: 20px;
+	margin: 50px auto;
+	transform: translate(100px 200px);
+}
+
+.box1{
+	width: 100px;
+	height: 100px;
+	background: green;
+	border: 2px solid #000;
+	padding: 10px;
+	font-size: 20px;
+	margin: 50px auto;
+	transform: rotate(35deg);	
+}
+
+.box2{
+	width: 100px;
+	height: 100px;
+	background: blue;
+	border: 2px solid #000;
+	padding: 10px;
+	font-size: 20px;
+	margin: 50px auto;	
+	transform: scaleX(0.5);	
+}
+
+.box3{
+	width: 100px;
+	height: 100px;
+	background: violet;
+	border: 2px solid #000;
+	padding: 10px;
+	font-size: 20px;
+	margin: 50px auto;
+	transform: skew(-45deg);
+}

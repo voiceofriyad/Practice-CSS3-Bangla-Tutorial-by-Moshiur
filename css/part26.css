@@ -1,0 +1,19 @@
+.bg{
+	background: url(../image/riyad.JPG);
+	background-size: 300px 300px;
+	width: 250px;
+	height: 250px;
+	background-repeat: no-repeat;
+	overflow: hidden;
+}
+
+.bg p{
+	text-align: center;
+	background: red;
+	font-weight: bold;
+	font-size: 15px;
+	padding: 25px;
+	opacity: 0.6;
+	margin-top: 140px;
+	
+}

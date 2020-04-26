@@ -1,0 +1,17 @@
+.flex-container{
+	display: flex;
+	background: red;
+	padding: 10px;
+	flex-direction: row-reverse;
+	flex-wrap: wrap-reverse;
+	justify-content: space-between;
+}
+
+.flex-item{
+	border: 1px solid #fff;
+	font-size: 20px;
+	color: #fff;
+	margin:10px;
+	padding: 20px;
+	width: 100px;
+}
