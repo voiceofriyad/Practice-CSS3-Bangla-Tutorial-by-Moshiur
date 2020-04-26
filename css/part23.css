@@ -1,0 +1,8 @@
+div>p{
+	background: yellow;
+
+}
+div+p{
+	background: gray;
+
+}

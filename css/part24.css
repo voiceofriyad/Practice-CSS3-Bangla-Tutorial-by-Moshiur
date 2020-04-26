@@ -1,0 +1,9 @@
+a:hover{
+	color: red;
+}
+h2:nth-child(3){
+	color: blue;
+}
+h2:last-child{
+	color: green;
+}

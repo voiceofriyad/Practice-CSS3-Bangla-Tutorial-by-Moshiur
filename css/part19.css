@@ -1,0 +1,71 @@
+.green-box{
+	width: 200px;
+	height: 200px;
+	background: green;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.red-box{
+	width: 200px;
+	height: 200px;
+	background: red;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+.blue-box{
+	width: 200px;
+	height: 200px;
+	background: blue;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+.yellow-box{
+	width: 200px;
+	height: 200px;
+	background: yellow;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+.yellow-box{
+	width: 200px;
+	height: 200px;
+	background: yellow;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+.violet-box{
+	width: 200px;
+	height: 200px;
+	background: violet;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	margin:auto;
+}
+.gray-box{
+	width: 200px;
+	height: 200px;
+	background: gray;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	margin:auto;
+}
+.orange-box{
+	width: 200px;
+	height: 200px;
+	background: orange;
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	margin:auto;
+}
